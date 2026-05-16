@@ -24,10 +24,12 @@ I am a B.Tech Information Technology student at LDRP Institute of Technology and
 - Integrated robust error-handling for host unreachability and timeouts.
 
 ### 📜 Certifications
-- **Networking (N+)**
-- **A+ Hardware Certification**
+- **N+ Networking**
+- **A+ Hardware**
 - **Python Certification**
-- **Advanced Training in Cisco Certified Network Associate (CCNA)**
+- **Cisco introduction to CyberSecurity**
+- **Cisco Computer Hardware Basics**
+- **Fortinet Certified Fundamentals in Cybersecurity (NSE-1)**
 
 ### ⚡ Professional Goals
 - 🛡️ Deepening my expertise in Cybersecurity and Threat Intelligence.
