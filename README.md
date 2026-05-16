@@ -17,7 +17,8 @@ I am a B.Tech Information Technology student at LDRP Institute of Technology and
 
 ### 📂 Featured Project
 
-#### [PYTHON-PORT-SCANNER](https://github.com/harit-suthar/PYTHON-PORT-SCANNER)
+#### PYTHON-PORT-SCANNER ####
+🔗(https://github.com/harit-suthar/PYTHON-PORT-SCANNER)
 *An automated tool designed for network discovery and security auditing.*
 - Engineered using **Socket Programming** to identify active services and vulnerabilities.
 - Implemented multi-port scanning logic for the top 500 ports.
