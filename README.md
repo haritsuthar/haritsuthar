@@ -17,7 +17,7 @@ I am a B.Tech Information Technology student at LDRP Institute of Technology and
 
 ### 📂 Featured Project
 
-## 🔐[ Mobile Security Scanner](https://github.com/haritsuthar/mobile-security-scanner)
+### 🔐[ Mobile Security Scanner](https://github.com/haritsuthar/mobile-security-scanner)
 
 A Flask-based cybersecurity web application for analyzing Android APK files, detecting vulnerabilities, generating SHA256 hashes, and creating automated PDF security reports through a modern dashboard interface.
 
@@ -32,7 +32,7 @@ A Flask-based cybersecurity web application for analyzing Android APK files, det
 Python • Flask • HTML/CSS • ReportLab
 
 
-#### [PYTHON-PORT-SCANNER](https://github.com/haritsuthar/PYTHON-PORT-SCANNER)
+#### 🧑‍💻[PYTHON-PORT-SCANNER](https://github.com/haritsuthar/PYTHON-PORT-SCANNER)
 *An automated tool designed for network discovery and security auditing.*
 - Engineered using **Socket Programming** to identify active services and vulnerabilities.
 - Implemented multi-port scanning logic for the top 500 ports.
